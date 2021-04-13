@@ -7,3 +7,4 @@ Table of contents:
 2. Maximum likelihood estimation: Poisson case: [notebook](notebooks/cda_2021_03_16_lecture.ipynb)
 3. Newton-Raphson method, MaxLik: [notebook](notebooks/cda_2021_03_23_lecture.ipynb)
 4. Contingency table analysis, chisq, odds ratio: [notebook](notebooks/cda_2021_03_30_lecture.ipynb)
+5. Correspondence analysis: [notebook](notebooks/cda_2021_04_13_lecture.ipynb)
