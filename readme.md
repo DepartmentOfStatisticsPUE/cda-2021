@@ -8,3 +8,4 @@ Table of contents:
 3. Newton-Raphson method, MaxLik: [notebook](notebooks/cda_2021_03_23_lecture.ipynb)
 4. Contingency table analysis, chisq, odds ratio: [notebook](notebooks/cda_2021_03_30_lecture.ipynb)
 5. Correspondence analysis: [notebook](notebooks/cda_2021_04_13_lecture.ipynb)
+6. Categorical variables in regression and marginal effects: [notebook](notebooks/cda_2021_04_20_lecture.ipynb)
