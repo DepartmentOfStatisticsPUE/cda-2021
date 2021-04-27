@@ -9,3 +9,4 @@ Table of contents:
 4. Contingency table analysis, chisq, odds ratio: [notebook](notebooks/cda_2021_03_30_lecture.ipynb)
 5. Correspondence analysis: [notebook](notebooks/cda_2021_04_13_lecture.ipynb)
 6. Categorical variables in regression and marginal effects: [notebook](notebooks/cda_2021_04_20_lecture.ipynb)
+7. Introduction to GLM: [notebook](notebooks/cda_2021_04_27_lecture.ipynb)
