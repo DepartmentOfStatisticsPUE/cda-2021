@@ -11,3 +11,4 @@ Table of contents:
 6. Categorical variables in regression and marginal effects: [notebook](notebooks/cda_2021_04_20_lecture.ipynb)
 7. Introduction to GLM: [notebook](notebooks/cda_2021_04_27_lecture.ipynb)
 8. Logistic regression: [notebook](notebooks/cda_2021_05_11_lecture.ipynb)
+9. Poisson regression: [notebook](notebooks/cda_2021_05_18_lecture.ipynb)
