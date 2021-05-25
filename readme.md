@@ -12,3 +12,4 @@ Table of contents:
 7. Introduction to GLM: [notebook](notebooks/cda_2021_04_27_lecture.ipynb)
 8. Logistic regression: [notebook](notebooks/cda_2021_05_11_lecture.ipynb)
 9. Poisson regression: [notebook](notebooks/cda_2021_05_18_lecture.ipynb)
+10. GEE models: [notebook](notebooks/cda_2021_05_25_lecture.ipynb)
